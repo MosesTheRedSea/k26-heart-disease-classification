@@ -2,7 +2,6 @@
   <img src="https://datascience.uchicago.edu/wp-content/uploads/2024/02/Heart-Disease.png" alt="Heart Disease" width="900"/>
 </p>
 
-<br />
 <p align="center">
   <h3 align="center">HeArT dIsEaSe</h3>
   <p align="center">Logistic Regression Heart Disease Classifier</p>
