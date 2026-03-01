@@ -4,7 +4,7 @@
 
 <br />
 <p align="center">
-  <h3 align="center">k26-heart-disease-classification</h3>
+  <h3 align="center">HeArT dIsEaSe</h3>
   <p align="center">Logistic Regression Heart Disease Classifier</p>
 </p>
 
