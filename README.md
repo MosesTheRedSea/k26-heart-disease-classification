@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://github.com/MosesTheRedSea/k26-heart-disease-classification/blob/main/heart-disease.jpeg" alt="k26-heart-disease-classification" width="600"/>
+</p>
 
 <br />
 <p align="center">
