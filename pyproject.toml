@@ -1,0 +1,38 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "heart-disease"
+version = "0.1.0"
+description = "Has Heart Disease or Not Binary Classifier"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [
+    { name = "Moses Adewolu", email = "MosesOluwatobiAdewolu@gmail.com" }
+]
+
+dependencies = [
+    "numpy",
+    "scipy",
+    "matplotlib",
+    "h5py",
+    "pillow",
+    "tqdm", 
+    "seaborn"
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+    "black",
+    "flake8",
+    "ipython"
+]
+
+[tool.setuptools]
+package-dir = { "" = "/home/hice1/madewolu9/scratch/madewolu9/LRDVCC/mEoW-oR-wOoF" }
+
+[tool.setuptools.packages.find]
+where = ["src"]
