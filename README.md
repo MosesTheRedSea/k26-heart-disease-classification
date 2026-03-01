@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/MosesTheRedSea/k26-heart-disease-classification/blob/main/heart-disease.jpeg" alt="k26-heart-disease-classification" width="600"/>
+  <img src="https://datascience.uchicago.edu/wp-content/uploads/2024/02/Heart-Disease.png" alt="Heart Disease" width="900"/>
 </p>
 
 <br />
