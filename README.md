@@ -7,7 +7,7 @@
   <p align="center">Logistic Regression Heart Disease Classifier</p>
 </p>
 
-## Introduction
+</br>
 
 **k26-heart-disease-classification** is a machine learning project built for the Kaggle Playground Series competition:
 **Predicting Heart Disease (Season 6, Episode 2)**.
@@ -26,10 +26,6 @@ The model is evaluated using **Area Under the ROC Curve (ROC-AUC)**, as specifie
 
 This project focuses on building a strong foundational understanding of tabular machine learning using interpretable statistical models rather than deep learning architectures.
 
----
-
-## Getting Started
-
 
 ## Project Structure
 
@@ -44,7 +40,6 @@ This project focuses on building a strong foundational understanding of tabular 
   - [`visualize.py`](https://github.com/MosesTheRedSea/k26-heart-disease-classification/blob/main/utils/visualize.py) – Visualization utilities for evaluation metrics.
 - [`outputs/`](https://github.com/MosesTheRedSea/k26-heart-disease-classification/tree/main/outputs) – Training logs, results, and submission outputs.
 
----
 
 ## Installation
 
